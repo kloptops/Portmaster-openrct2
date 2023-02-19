@@ -1,3 +1,7 @@
+# THIS REPO IS DEPRECATED
+
+Please see [Portmaster-misc](https://github.com/kloptops/Portmaster-misc) for future updates.
+
 # Portmaster-OpenRCT2
 
 
